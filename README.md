@@ -1,9 +1,6 @@
-## Interactive 3D Animated Portfolio
+## teste de site
+
 ---
-
-
-https://github.com/himanshu8443/3D-Portfolio/assets/99420590/6f11c9db-5f32-41e8-94f9-cbf52be8553e
-
 
 ---
 
