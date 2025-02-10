@@ -36,6 +36,10 @@ import jobit from "./jobit.png";
 import inkSync from "./ink.png";
 import tracker from "./tracker.png";
 import socialSphere from "./socialSphere.png";
+import approve from "./approve.png";
+import music from "./music.png";
+import social from "./social.png";
+import picon from "./picon.png"
 
 export {
   logo,
@@ -73,4 +77,8 @@ export {
   java,
   jwt,
   nextauth,
+  approve, 
+  music,
+  social,
+  picon
 };

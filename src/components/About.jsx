@@ -42,18 +42,18 @@ const About = () => {
     <>
       <div className='relative overflow-hidden lg:overflow-visible'>
         <motion.div variants={textVariant()}>
-          <p className={'sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider'}>Introduction</p>
+          <p className={'sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider'}>Sobre Mim</p>
           <h2 className={'text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'}>Overview.</h2>
         </motion.div>
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[18px] max-w-3xl leading-[30px] font-semibold'
         >
-          I'm a skilled software developer with experience in TypeScript and
-          JavaScript, and expertise in frameworks like React, Node.js, and
-          Three.js. I'm a quick learner and collaborate closely with clients to
-          create efficient, scalable, and user-friendly solutions that solve
-          real-world problems. Let's work together to bring your ideas to life!
+          Picon começou sua carreira atuando na publicidade quando criança, mas ganhou destaque na internet em 2009 aos 13 anos, 
+          quando apareceu no blog Colírios da revista Capricho. Três anos depois, ele aproveitou visibilidade que conquistou e decidiu criar
+          uma marca de roupas chamada Approve ao lado dos sócios Caca Parra e Tata Estaniecki, que se tornou um sucesso em vendas, 
+          chegando a faturar R$5 milhões em vendas ainda na faculdade. Picon também possui outros negócios. ESCREVER OQUE QUISER AQUI
+
         </motion.p>
         <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
         <Image src={astronaut} alt="astronaut" className="absolute z-[-1] h-80 -right-20 animation top-28" />

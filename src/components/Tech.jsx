@@ -14,8 +14,8 @@ const Tech = () => {
     <>
     <div className='relative'>
      <motion.div variants={textVariant()}>
-        <p className={'sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider'}>Tech</p>
-        <h2 className={'text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'}>Skills.</h2>
+        <p className={'sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider'}>Aqui coloquei as tecnlogoias utilizadas mas podemos criar algo nessa pagina</p>
+        <h2 className={'text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]'}>o cliente escolhe oque colocar</h2>
       </motion.div>
       <Image src={color_sharp} alt="color-sharp" className="absolute z-[-1] h-80 -left-60 w-screen -top-20" />
       </div>
